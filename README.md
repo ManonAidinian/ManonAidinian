@@ -6,6 +6,6 @@ I am in love with the exciting process of building a product, thrilled with the 
 
 Here are the process and tech stack I'm most familiar with :
 
-User journey | Prototyping in Figma | DB Schema and PostgreSQL | MVC pattern with Ruby on Rails | Auth. with Devise | Javascript + Stimulus JS | Geocoding with Mapbox | Action cable | Active record | PG Search | SCSS | GitHub | Cloudinary | Heroku
+User journey | Prototyping in Figma | DB Schema and PostgreSQL | MVC pattern with Ruby on Rails | Auth. with Devise | Javascript + Stimulus JS | Geocoding with Mapbox | Action cable | APIs | PG Search | SCSS | GitHub | Cloudinary | Heroku
 
 🚀 I am now a certified Junior Full-stack Developer, working on personal projects to keep learning every day, and looking forward to joining a new team where I can contribute to building valuable products!
