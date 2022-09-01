@@ -4,5 +4,5 @@ Project Manager with 10 years of experience in the Design industry and now certi
 
 Here are my favorite Stacks:
 
-Ruby | Ruby on Rails | Javascript ES6 + frameworks | SQL, PostreSQL | HTML + CSS + Bootstrap | Figma | Heroku
+Ruby | Ruby on Rails | Javascript ES6 | SQL, PostreSQL | HTML + CSS + Bootstrap | Figma | Heroku
 
